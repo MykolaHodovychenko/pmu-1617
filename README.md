@@ -7,6 +7,7 @@
 
 # Модульная контрольная работа №2 пройдет 30 мая (вторник) на 1 паре, вместо лекции Коваленко, в 505
 
+
 ## Лекционный материал
 
 [Службы](https://nick-onpu.gitbooks.io/mobile-devices-programming/content/sluzhbi.html)
