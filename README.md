@@ -11,6 +11,7 @@
 ## Лекционный материал
 
 [Службы](https://nick-onpu.gitbooks.io/mobile-devices-programming/content/sluzhbi.html)
+[Механизм сохранения наборов "Ключ-значение"](https://nick-onpu.gitbooks.io/mobile-devices-programming/content/preferences.html)
 
 ## Список лабораторных работ
 
