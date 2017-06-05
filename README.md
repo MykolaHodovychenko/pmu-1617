@@ -11,7 +11,7 @@
 
 21 &ndash; 29 июня 2017
 
-Программа летней школы: [PDF](pmu-1617/summer_school_schedule.pdf)
+Программа летней школы: [PDF](summer_school_schedule.pdf)
 
 
 ## Лекционный материал
