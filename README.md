@@ -11,7 +11,7 @@
 
 21 &ndash; 29 июня 2017
 
-Программа летней школы: [PDF](summer_school_schedule.pdf)
+Материалы летней школы (программа, лекции и тд) --> [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
 
 
 ## Лекционный материал
