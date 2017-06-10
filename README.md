@@ -14,12 +14,12 @@
 Материалы летней школы (программа, лекции и тд) --> [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
 
 
-## Лекционный материал
+### Лекционный материал
 
 * [Службы](https://nick-onpu.gitbooks.io/mobile-devices-programming/content/sluzhbi.html)
 * [Механизм сохранения наборов "Ключ-значение"](https://nick-onpu.gitbooks.io/mobile-devices-programming/content/preferences.html)
 
-## Список лабораторных работ
+### Список лабораторных работ
 
 [Лабораторная работа №1 "Установка инструментария разработчика Android. Создание первого приложения на Android"](https://goo.gl/kr43Fv)
 
@@ -35,4 +35,4 @@
 
 [Лабораторная работа №7 "Поставщики содержимого. Широковещательные сообщения. Службы"](https://goo.gl/glYECI)
 
-## [Журнал дисциплины](https://goo.gl/dXqTXC)
+### [Журнал дисциплины](https://goo.gl/dXqTXC)
