@@ -5,8 +5,7 @@
 | |**skype**: nickgodov
 | |**Консультации**: среда и четверг, 4 пара, 607 ауд.
 
-# Летняя школа
-Информация => [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
+# Летняя школая => [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
 
 # Учебный курс
 
