@@ -8,6 +8,8 @@
 # Летняя школая 
 #### Информация => [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
 
+>
+
 
 
 
