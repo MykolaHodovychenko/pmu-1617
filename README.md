@@ -7,11 +7,7 @@
 
 # Летняя школа
 
-Время проведения
-
-21 &ndash; 29 июня 2017
-
-Материалы летней школы (программа, лекции и тд) --> [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
+Информация => [gitbook](https://nick-onpu.gitbooks.io/summer-school-2017/content/)
 
 
 ### Лекционный материал
